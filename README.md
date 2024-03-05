@@ -4,7 +4,7 @@
 - 🧑‍💻 I engineer impactful digital solutions.
 - 🌐 I'm into web development. 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-ark&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
