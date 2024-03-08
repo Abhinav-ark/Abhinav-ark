@@ -13,7 +13,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-ark&theme=dark&hide_border=false" alt="GitHub Streak"/>
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-ark&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-ark&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/> -->
 </div>
 
 
