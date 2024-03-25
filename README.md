@@ -13,7 +13,7 @@
 <br>
 <br>
 
-<h1 align="center"> Programming Languages, frameworks and Skills </h1>
+<h1 align="center"> Tech Stack </h1>
 <div align="center">
 <img src="https://skills.thijs.gg/icons?i=c" title="C"/>
 <img src="https://skills.thijs.gg/icons?i=cpp" title="C++"/>
