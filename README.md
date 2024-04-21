@@ -49,7 +49,7 @@
 <h1 align="center"> GitHub Stats </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-abhinav-ramakrishnans-projects.vercel.app/api?username=Abhinav-ark&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
+  <!--<img src="https://github-readme-stats-git-master-abhinav-ramakrishnans-projects.vercel.app/api?username=Abhinav-ark&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"/>-->
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-ark&theme=dark&hide_border=false" alt="GitHub Streak"/>
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-ark&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/> -->
