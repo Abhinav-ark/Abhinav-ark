@@ -34,6 +34,7 @@
 <img src="https://skillicons.dev/icons?i=go" title="Go"/>
 <img src="https://skillicons.dev/icons?i=bash" title="Bash"/>
 <img src="https://skillicons.dev/icons?i=haskell" title="Haskell"/>
+<img src="https://skillicons.dev/icons?i=scala" title="Scala"/>
 <img src="https://skillicons.dev/icons?i=solidity" title="Solidity"/>
 <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
 <img src="https://skillicons.dev/icons?i=nginx" title="NGINX"/>
