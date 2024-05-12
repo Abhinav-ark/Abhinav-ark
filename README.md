@@ -46,6 +46,10 @@
 
 <br>
 <br>
+<h1 align="center">  GitHub Contributions Graph </h1>
+
+[![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-ark&theme=github-dark)](https://github.com/Abhinav-ark)
+
 
 <h1 align="center"> GitHub Stats </h1>
 
