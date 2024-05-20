@@ -41,6 +41,7 @@
 <img src="https://skillicons.dev/icons?i=git" title="Git"/>
 <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions"/>
 <img src="https://skillicons.dev/icons?i=redis" title="Redis"/>
+<img src="https://skillicons.dev/icons?i=grafana" title="Grafana"/>
 </div>
 
 
