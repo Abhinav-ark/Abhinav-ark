@@ -68,5 +68,11 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-ark&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/> -->
 </div>
 
+<br>
+<br>
+<h1 align="center"> AWS Badges </h1>
 
-
+<div align="center">
+<img src="https://github.com/user-attachments/assets/00dd56b1-21cc-4c4e-a528-b8a040305598" width="200px"/>
+<img src="https://github.com/user-attachments/assets/2b7fc163-dcd4-4d2b-a9b7-3a8af998ad74" width="200px"/>
+</div>
