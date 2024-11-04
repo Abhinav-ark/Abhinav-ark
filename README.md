@@ -73,10 +73,10 @@
 <h1 align="center"> AWS Badges </h1>
 
 <div align="center">
-<a href="https://www.credly.com/go/cKsJFeWx">
+<a href="https://www.credly.com/go/cKsJFeWx" target="_blank">
     <img src="https://github.com/user-attachments/assets/00dd56b1-21cc-4c4e-a528-b8a040305598" width="200px"/>
 </a>
-<a href="https://www.credly.com/go/TdutB7kQ">
+<a href="https://www.credly.com/go/TdutB7kQ" target="_blank">
     <img src="https://github.com/user-attachments/assets/2b7fc163-dcd4-4d2b-a9b7-3a8af998ad74" width="200px"/>
 </a>
 </div>
