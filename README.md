@@ -71,13 +71,24 @@
 
 <br>
 <br>
-<h1 align="center"> AWS Badges </h1>
+<h1 align="center"> Badges </h1>
 
-<div align="center">
-<a href="https://www.credly.com/go/cKsJFeWx" target="_blank">
-    <img src="https://github.com/user-attachments/assets/00dd56b1-21cc-4c4e-a528-b8a040305598" width="200px"/>
-</a>
-<a href="https://www.credly.com/go/TdutB7kQ" target="_blank">
-    <img src="https://github.com/user-attachments/assets/2b7fc163-dcd4-4d2b-a9b7-3a8af998ad74" width="200px"/>
-</a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://www.credly.com/go/cKsJFeWx" target="_blank">
+        <img src="https://github.com/user-attachments/assets/00dd56b1-21cc-4c4e-a528-b8a040305598" width="200px"/>
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.credly.com/go/TdutB7kQ" target="_blank">
+        <img src="https://github.com/user-attachments/assets/2b7fc163-dcd4-4d2b-a9b7-3a8af998ad74" width="200px"/>
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm38lf1rb74450cl7m4z6m738?balloons=true" target="_blank">
+        <img src="https://github.com/user-attachments/assets/0949a582-155b-42de-b5f9-8093871824d7" width="150px"/> 
+      </a>
+    </td>
+  </tr>
+</table>
