@@ -44,6 +44,7 @@
 <img src="https://skillicons.dev/icons?i=scala" title="Scala"/>
 <img src="https://skillicons.dev/icons?i=solidity" title="Solidity"/>
 <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/>
 <img src="https://skillicons.dev/icons?i=nginx" title="NGINX"/>
 <img src="https://skillicons.dev/icons?i=git" title="Git"/>
 <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions"/>
