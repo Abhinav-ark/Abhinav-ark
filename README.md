@@ -10,7 +10,7 @@
  💼 SWE Intern (Summer 2024) @ The Bank of New York, Chennai Office. <br>
  🌐 I'm into Web Development and Software Engineering. <br>
  🔗 My Portfolio: <a href="https://www.abhinavramakrishnan.tech/">www.abhinavramakrishnan.tech</a> <br><br>
- Creative Artist 🎨 | Web Developer | Programmer | Fitness Enthusiast 🚴
+ Creative Artist 🎨 | Web Developer 🌐 | Programmer 🧑‍💻 | Fitness Enthusiast 🚴
 </div>
 
 <br>
