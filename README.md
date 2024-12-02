@@ -36,6 +36,7 @@
 <img src="https://skillicons.dev/icons?i=flask" title="Flask"/>
 <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS"/>
 <img src="https://skillicons.dev/icons?i=express" title="Express"/>
+<img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI"/>
 <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
 <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
 <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu"/>
@@ -51,6 +52,7 @@
 <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions"/>
 <img src="https://skillicons.dev/icons?i=redis" title="Redis"/>
 <img src="https://skillicons.dev/icons?i=grafana" title="Grafana"/>
+<img src="https://skillicons.dev/icons?i=ansible" title="Ansible"/>
 </div>
 
 
